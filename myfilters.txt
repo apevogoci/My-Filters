@@ -1,0 +1,21 @@
+[Adblock Plus 2.0]
+! Version: 201801231548
+! Title: apevogoci
+! Last modified: 23 Jan 2018 15:48 UTC
+! Expires: 7 days (update frequency)
+! License: http://creativecommons.org/licenses/by/3.0/
+! Homepage: https://github.com/apevogoci/My-Filters
+!
+
+!-----------------------------------
+! yummyanime.com
+!-----------------------------------
+@@||piguiqproxy.com$subdocument,domain=yummyanime.com
+
+!-----------------------------------
+! Miners
+!-----------------------------------
+||sirokuzo.com^$important
+||biberukalap.com^$important
+||bablace.com^$important
+||willacrit.com^$important

@@ -8,9 +8,14 @@
 !
 
 !-----------------------------------
-! yummyanime.com
+! Unbreak
 !-----------------------------------
 @@||piguiqproxy.com$subdocument,domain=yummyanime.com
+
+!-----------------------------------
+! 3rd-party scripts
+!-----------------------------------
+$third-party,script,domain=zona.video
 
 !-----------------------------------
 ! Miners
@@ -19,3 +24,4 @@
 ||biberukalap.com^$important
 ||bablace.com^$important
 ||willacrit.com^$important
+||verresof.com^$important

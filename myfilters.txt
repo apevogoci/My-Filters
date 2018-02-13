@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201801231548
+! Version: 201802131621
 ! Title: apevogoci
-! Last modified: 23 Jan 2018 15:48 UTC
+! Last modified: 13 Feb 2018 16:21 UTC
 ! Expires: 7 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://github.com/apevogoci/My-Filters
@@ -25,3 +25,4 @@ $third-party,script,domain=zona.video
 ||bablace.com^$important
 ||willacrit.com^$important
 ||verresof.com^$important
+||moonsade.com^$important

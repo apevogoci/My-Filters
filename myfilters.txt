@@ -26,3 +26,4 @@ $third-party,script,domain=zona.video
 ||willacrit.com^$important
 ||verresof.com^$important
 ||moonsade.com^$important
+||terethat.ru^$important

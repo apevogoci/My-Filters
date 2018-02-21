@@ -15,7 +15,7 @@
 !-----------------------------------
 ! 3rd-party scripts
 !-----------------------------------
-$third-party,script,domain=zona.video
+$third-party,script,domain=zona.video|zona.plus
 
 !-----------------------------------
 ! Miners
